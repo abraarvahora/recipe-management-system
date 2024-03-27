@@ -1,0 +1,53 @@
+{"recipes":
+	[	
+		{
+			"id":1,
+			"name":"Chocolate Cake",
+			"ingredients":"40g of Flour\n25g of Chocolate",
+			"directions": "Step 1: Mix flour and chocolate in a bowl\nStep 2: Bake for 1 hour at 350 degrees"
+			
+		},
+		{
+			"id":2,
+			"name":"Lasagnae",
+			"ingredients":"25g of Cheese\n10 sheets of lasagnae",
+			"directions":"Step 1: Lay sheets in a tray\nStep 2: Cover with cheese and sauce\nStep 3: Bake for 38 minutes for 233 degrees",
+			"notes":"Try adding less cheese"
+		},
+		{
+			"id":3,
+			"name":"Pasta",
+			"ingredients":"25g of Pasta\n45ml of Pasta Sauce",
+			"directions":"Step 1: Boil and drain pasta\nStep 2: Cover with sauce",
+			"notes":"Try adding cheese"
+		},
+		{
+			"id":4,
+			"name":"Cookie",
+			"ingredients":"59g of Flour\n45g of Chocolate Chips",
+			"directions":"Step 1: Mix flour and choclate chips in a bowl\nStep 2: Bake for 40 minutes at 742 degrees",
+			"notes":"Try serving with ice cream"
+		},
+		{
+			"id":5,
+			"name":"Brownie",
+			"ingredients":"85g of Flour\n68g of Cocoa Powder",
+			"directions":"Step 1: Mix flour and cocoa powder in a bowl\nStep 2: Bake for 56 minutes at 98 degrees",
+			"notes":"Try serving with ice cream"
+		},
+		{
+			"id":6,
+			"name":"Burger",
+			"ingredients":"1 Bun\n2Burger patties\n1 Tomatoe",
+			"directions":"Step 1: Cook the burger patty\nStep 2: Slice tomatoe\nStep 3: Arrange burger",
+			"notes":"Try with cucumber"
+		},
+		{
+			"id":7,
+			"name":"Chicken Wings",
+			"ingredients":"8 Chicken Wings\n75g of Spice Mix",
+			"directions":"Step 1: Marinate the chicken wings with the spice mix\nStep 2: Cook for 43 minutes",
+			"notes":"Try diffrent marinade"
+		}
+	]
+}

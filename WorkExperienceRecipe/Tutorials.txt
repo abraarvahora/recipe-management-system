@@ -1,0 +1,40 @@
+HTML - https://www.w3schools.com/html/html_intro.asp
+
+CSS - https://www.w3schools.com/css/css_intro.asp
+
+Javascript - https://www.w3schools.com/js/js_intro.asp
+
+Jquery - https://www.w3schools.com/jquery/jquery_intro.asp
+
+JSON - https://www.w3schools.com/js/js_json_intro.asp
+
+GIT - https://www.w3schools.com/git/
+
+
+HTML is the basic building blocks of a web page, what content there is in the page. And what type of content it is.
+
+so h1 means biggest type of heading and to write "Hello I am a heading" in html you would write:
+
+<h1>Hello I am a heading</h1> 
+
+
+
+CSS is the application of styling rules to HTML so
+
+h1 {
+    background-color: blue;
+    color: red;
+}
+
+Will make all of the biggest header elements on the page (H1 elements) have a blue background and red text.
+
+
+Javascript (and jquery is a set of tools written in javascript) is the language we use control what happens on a web page logically when certain things happen, when the page loads, when a button is clicked etc
+
+<script language="javascript">
+    window.onLoad(
+        alert("I have loaded");
+    );
+</script>
+
+So the code above will make the web browser pop up an alert message when it loads the page.
